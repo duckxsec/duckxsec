@@ -25,5 +25,9 @@ Bug Bounty ,Security Breach,Reverse Engineering, Android Remote Access Trojan, C
 
 I'm opened for suggestions! If you want partnership feel free to contact me.
 
+- Telegram: <a href="https://t.me/duckxsec">`Mr_Coder_X`</a>
+
+<div align="center" style="background-color: transparent;"><img style="opacity: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duckxsec&langs_count=4&theme=transparent&bg_color=00000000"/></div>
+
 
 
