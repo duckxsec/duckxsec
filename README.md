@@ -18,9 +18,11 @@ Skills : Python Tools Dev ,Android Remote Access Trojan Dev, Computer Access Tro
 Bug Bounty ,Security Breach,Reverse Engineering, Android Remote Access Trojan, Computer Remote Access Trojan, Ransomware, Malware, Stealer ,Networking, Python Scripts Making 💻
 
 ### Main programming languages:
-
-<div align=center style="background-color: transparent;">
+<div style="background-color: transparent;" align="center">
 	<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,html,php"/>
+	<br/>
+    <br>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=duckxsec&langs_count=8&theme=react&layout=compact'>
 </div>
 
 ### Contact me:
@@ -28,8 +30,6 @@ Bug Bounty ,Security Breach,Reverse Engineering, Android Remote Access Trojan, C
 I'm opened for suggestions! If you want partnership feel free to contact me.
 
 - Telegram: <a href="https://t.me/duckxsec">`duckxsec`</a>
-
-<div align="center" style="background-color: transparent;"><img style="opacity: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duckxsec&langs_count=4&theme=transparent&bg_color=00000000"/></div>
 
 ---
 
