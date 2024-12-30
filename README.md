@@ -6,7 +6,7 @@ I’m self-taught programmer, a developer skilled in C++ and Python. I’ve made
 Skills : Python Tools Dev ,Android Remote Access Trojan Dev, Computer Access Trojan Dev, Botnet Dev , Stealer Dev , Malware Dev , Ransomware Dev , Telegram Bot Dev , Software Cracker And Tester  
 
 <div align=center style="background-color: transparent;">
-	<img style="opacity: 100%;" width="80%" src="preview.gif"/>
+	<img style="opacity: 100%;" width="80%" src="xsec.jpg"/>
 </div>
 <div align=center style="background-color: transparent;">
 	<img alt="Stars" src="https://img.shields.io/github/stars/duckxsec?label=stars"/>
