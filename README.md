@@ -29,7 +29,7 @@ Bug Bounty ,Security Breach,Reverse Engineering, Android Remote Access Trojan, C
 
 I'm opened for suggestions! If you want partnership feel free to contact me.
 
-- Telegram: <a href="https://t.me/duckxsec">`duckxsec`</a>
+- Telegram: <a href="https://t.me/LOOT_YT">`LOOT_YT`</a>
 
 ---
 
